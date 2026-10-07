@@ -12,6 +12,7 @@
 \
 ****Previous SSIG Meetings****
 
+
 \
 =======\
 ***SSIG3 Meeting 16-17 September 2026, Porto, The Social Hub***
@@ -20,6 +21,7 @@ The third SSIG meeting took place on 16–17 September in Porto.
 [meeting report](meetings/SSIG3/D1.4_Report_on_SSIG3.pdf) |
 [presentations](meetings/SSIG3)
 \
+
 =======\
 ***SSIG2 Meeting 15-16 April 2026, The Hague, Statistics Netherlands***
 [Agenda](meetings/SSIG2/0_SSIG2_agenda.md) |
